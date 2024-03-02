@@ -1,0 +1,2039 @@
+{
+	"entries" : 
+	[
+		{
+			"name" : "CARGO",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to a program."
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "C:/Users/adven/.cargo/bin/cargo.exe"
+		},
+		{
+			"name" : "CMAKE_ADDR2LINE",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to a program."
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/addr2line.exe"
+		},
+		{
+			"name" : "CMAKE_AR",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to a program."
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/ar.exe"
+		},
+		{
+			"name" : "CMAKE_BUILD_TYPE",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Choose the type of build, options are: None Debug Release RelWithDebInfo MinSizeRel ..."
+				}
+			],
+			"type" : "STRING",
+			"value" : "Debug"
+		},
+		{
+			"name" : "CMAKE_CACHEFILE_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "This is the directory where this CMakeCache.txt was created"
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "c:/Users/adven/Desktop/rusty_cmake/cmake-build-debug"
+		},
+		{
+			"name" : "CMAKE_CACHE_MAJOR_VERSION",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Major version of cmake used to create the current loaded cache"
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "3"
+		},
+		{
+			"name" : "CMAKE_CACHE_MINOR_VERSION",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Minor version of cmake used to create the current loaded cache"
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "27"
+		},
+		{
+			"name" : "CMAKE_CACHE_PATCH_VERSION",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Patch version of cmake used to create the current loaded cache"
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "6"
+		},
+		{
+			"name" : "CMAKE_COLOR_DIAGNOSTICS",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Enable colored diagnostics throughout."
+				}
+			],
+			"type" : "BOOL",
+			"value" : "ON"
+		},
+		{
+			"name" : "CMAKE_COMMAND",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to CMake executable."
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "C:/Program Files (x86)/CMake/bin/cmake.exe"
+		},
+		{
+			"name" : "CMAKE_CPACK_COMMAND",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to cpack program executable."
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "C:/Program Files (x86)/CMake/bin/cpack.exe"
+		},
+		{
+			"name" : "CMAKE_CTEST_COMMAND",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to ctest program executable."
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "C:/Program Files (x86)/CMake/bin/ctest.exe"
+		},
+		{
+			"name" : "CMAKE_CXX_COMPILER",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "CXX compiler"
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/g++.exe"
+		},
+		{
+			"name" : "CMAKE_CXX_COMPILER_AR",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "A wrapper around 'ar' adding the appropriate '--plugin' option for the GCC compiler"
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/gcc-ar.exe"
+		},
+		{
+			"name" : "CMAKE_CXX_COMPILER_RANLIB",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "A wrapper around 'ranlib' adding the appropriate '--plugin' option for the GCC compiler"
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/gcc-ranlib.exe"
+		},
+		{
+			"name" : "CMAKE_CXX_FLAGS",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Flags used by the CXX compiler during all build types."
+				}
+			],
+			"type" : "STRING",
+			"value" : ""
+		},
+		{
+			"name" : "CMAKE_CXX_FLAGS_DEBUG",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Flags used by the CXX compiler during DEBUG builds."
+				}
+			],
+			"type" : "STRING",
+			"value" : "-g"
+		},
+		{
+			"name" : "CMAKE_CXX_FLAGS_MINSIZEREL",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Flags used by the CXX compiler during MINSIZEREL builds."
+				}
+			],
+			"type" : "STRING",
+			"value" : "-Os -DNDEBUG"
+		},
+		{
+			"name" : "CMAKE_CXX_FLAGS_RELEASE",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Flags used by the CXX compiler during RELEASE builds."
+				}
+			],
+			"type" : "STRING",
+			"value" : "-O3 -DNDEBUG"
+		},
+		{
+			"name" : "CMAKE_CXX_FLAGS_RELWITHDEBINFO",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Flags used by the CXX compiler during RELWITHDEBINFO builds."
+				}
+			],
+			"type" : "STRING",
+			"value" : "-O2 -g -DNDEBUG"
+		},
+		{
+			"name" : "CMAKE_CXX_STANDARD_LIBRARIES",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Libraries linked by default with all C++ applications."
+				}
+			],
+			"type" : "STRING",
+			"value" : "-lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32"
+		},
+		{
+			"name" : "CMAKE_DLLTOOL",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to a program."
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/dlltool.exe"
+		},
+		{
+			"name" : "CMAKE_EDIT_COMMAND",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to cache edit program executable."
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "C:/Program Files (x86)/CMake/bin/cmake-gui.exe"
+		},
+		{
+			"name" : "CMAKE_EXECUTABLE_FORMAT",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Executable file format"
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "Unknown"
+		},
+		{
+			"name" : "CMAKE_EXE_LINKER_FLAGS",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Flags used by the linker during all build types."
+				}
+			],
+			"type" : "STRING",
+			"value" : ""
+		},
+		{
+			"name" : "CMAKE_EXE_LINKER_FLAGS_DEBUG",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Flags used by the linker during DEBUG builds."
+				}
+			],
+			"type" : "STRING",
+			"value" : ""
+		},
+		{
+			"name" : "CMAKE_EXE_LINKER_FLAGS_MINSIZEREL",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Flags used by the linker during MINSIZEREL builds."
+				}
+			],
+			"type" : "STRING",
+			"value" : ""
+		},
+		{
+			"name" : "CMAKE_EXE_LINKER_FLAGS_RELEASE",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Flags used by the linker during RELEASE builds."
+				}
+			],
+			"type" : "STRING",
+			"value" : ""
+		},
+		{
+			"name" : "CMAKE_EXE_LINKER_FLAGS_RELWITHDEBINFO",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Flags used by the linker during RELWITHDEBINFO builds."
+				}
+			],
+			"type" : "STRING",
+			"value" : ""
+		},
+		{
+			"name" : "CMAKE_EXPORT_COMPILE_COMMANDS",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Enable/Disable output of compile commands during generation."
+				}
+			],
+			"type" : "BOOL",
+			"value" : ""
+		},
+		{
+			"name" : "CMAKE_EXTRA_GENERATOR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Name of external makefile project generator."
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "CMAKE_FIND_PACKAGE_REDIRECTS_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake."
+				}
+			],
+			"type" : "STATIC",
+			"value" : "C:/Users/adven/Desktop/rusty_cmake/cmake-build-debug/CMakeFiles/pkgRedirects"
+		},
+		{
+			"name" : "CMAKE_GENERATOR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Name of generator."
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "Ninja"
+		},
+		{
+			"name" : "CMAKE_GENERATOR_INSTANCE",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Generator instance identifier."
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "CMAKE_GENERATOR_PLATFORM",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Name of generator platform."
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "CMAKE_GENERATOR_TOOLSET",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Name of generator toolset."
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "CMAKE_GNUtoMS",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Convert GNU import libraries to MS format (requires Visual Studio)"
+				}
+			],
+			"type" : "BOOL",
+			"value" : "OFF"
+		},
+		{
+			"name" : "CMAKE_HOME_DIRECTORY",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Source directory with the top level CMakeLists.txt file for this project"
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "C:/Users/adven/Desktop/rusty_cmake"
+		},
+		{
+			"name" : "CMAKE_INSTALL_PREFIX",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Install path prefix, prepended onto install directories."
+				}
+			],
+			"type" : "PATH",
+			"value" : "C:/Program Files (x86)/rusty_cmake"
+		},
+		{
+			"name" : "CMAKE_LINKER",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to a program."
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/ld.exe"
+		},
+		{
+			"name" : "CMAKE_MAKE_PROGRAM",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "make program"
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/ninja/win/x64/ninja.exe"
+		},
+		{
+			"name" : "CMAKE_MODULE_LINKER_FLAGS",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Flags used by the linker during the creation of modules during all build types."
+				}
+			],
+			"type" : "STRING",
+			"value" : ""
+		},
+		{
+			"name" : "CMAKE_MODULE_LINKER_FLAGS_DEBUG",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Flags used by the linker during the creation of modules during DEBUG builds."
+				}
+			],
+			"type" : "STRING",
+			"value" : ""
+		},
+		{
+			"name" : "CMAKE_MODULE_LINKER_FLAGS_MINSIZEREL",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Flags used by the linker during the creation of modules during MINSIZEREL builds."
+				}
+			],
+			"type" : "STRING",
+			"value" : ""
+		},
+		{
+			"name" : "CMAKE_MODULE_LINKER_FLAGS_RELEASE",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Flags used by the linker during the creation of modules during RELEASE builds."
+				}
+			],
+			"type" : "STRING",
+			"value" : ""
+		},
+		{
+			"name" : "CMAKE_MODULE_LINKER_FLAGS_RELWITHDEBINFO",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Flags used by the linker during the creation of modules during RELWITHDEBINFO builds."
+				}
+			],
+			"type" : "STRING",
+			"value" : ""
+		},
+		{
+			"name" : "CMAKE_NM",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to a program."
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/nm.exe"
+		},
+		{
+			"name" : "CMAKE_NUMBER_OF_MAKEFILES",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "number of local generators"
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "2"
+		},
+		{
+			"name" : "CMAKE_OBJCOPY",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to a program."
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/objcopy.exe"
+		},
+		{
+			"name" : "CMAKE_OBJDUMP",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to a program."
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/objdump.exe"
+		},
+		{
+			"name" : "CMAKE_PLATFORM_INFO_INITIALIZED",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Platform information initialized"
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "1"
+		},
+		{
+			"name" : "CMAKE_PROJECT_DESCRIPTION",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : ""
+		},
+		{
+			"name" : "CMAKE_PROJECT_HOMEPAGE_URL",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : ""
+		},
+		{
+			"name" : "CMAKE_PROJECT_NAME",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "rusty_cmake"
+		},
+		{
+			"name" : "CMAKE_PROJECT_VERSION",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "0.4.99.99"
+		},
+		{
+			"name" : "CMAKE_PROJECT_VERSION_MAJOR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "0"
+		},
+		{
+			"name" : "CMAKE_PROJECT_VERSION_MINOR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "4"
+		},
+		{
+			"name" : "CMAKE_PROJECT_VERSION_PATCH",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "99"
+		},
+		{
+			"name" : "CMAKE_PROJECT_VERSION_TWEAK",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "99"
+		},
+		{
+			"name" : "CMAKE_RANLIB",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to a program."
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/ranlib.exe"
+		},
+		{
+			"name" : "CMAKE_RC_COMPILER",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "RC compiler"
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/windres.exe"
+		},
+		{
+			"name" : "CMAKE_RC_COMPILER_WORKS",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "1"
+		},
+		{
+			"name" : "CMAKE_RC_FLAGS",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Flags for Windows Resource Compiler during all build types."
+				}
+			],
+			"type" : "STRING",
+			"value" : ""
+		},
+		{
+			"name" : "CMAKE_RC_FLAGS_DEBUG",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Flags for Windows Resource Compiler during DEBUG builds."
+				}
+			],
+			"type" : "STRING",
+			"value" : ""
+		},
+		{
+			"name" : "CMAKE_RC_FLAGS_MINSIZEREL",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Flags for Windows Resource Compiler during MINSIZEREL builds."
+				}
+			],
+			"type" : "STRING",
+			"value" : ""
+		},
+		{
+			"name" : "CMAKE_RC_FLAGS_RELEASE",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Flags for Windows Resource Compiler during RELEASE builds."
+				}
+			],
+			"type" : "STRING",
+			"value" : ""
+		},
+		{
+			"name" : "CMAKE_RC_FLAGS_RELWITHDEBINFO",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Flags for Windows Resource Compiler during RELWITHDEBINFO builds."
+				}
+			],
+			"type" : "STRING",
+			"value" : ""
+		},
+		{
+			"name" : "CMAKE_READELF",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to a program."
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/readelf.exe"
+		},
+		{
+			"name" : "CMAKE_ROOT",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to CMake installation."
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "C:/Program Files (x86)/CMake/share/cmake-3.27"
+		},
+		{
+			"name" : "CMAKE_SHARED_LINKER_FLAGS",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Flags used by the linker during the creation of shared libraries during all build types."
+				}
+			],
+			"type" : "STRING",
+			"value" : ""
+		},
+		{
+			"name" : "CMAKE_SHARED_LINKER_FLAGS_DEBUG",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Flags used by the linker during the creation of shared libraries during DEBUG builds."
+				}
+			],
+			"type" : "STRING",
+			"value" : ""
+		},
+		{
+			"name" : "CMAKE_SHARED_LINKER_FLAGS_MINSIZEREL",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Flags used by the linker during the creation of shared libraries during MINSIZEREL builds."
+				}
+			],
+			"type" : "STRING",
+			"value" : ""
+		},
+		{
+			"name" : "CMAKE_SHARED_LINKER_FLAGS_RELEASE",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Flags used by the linker during the creation of shared libraries during RELEASE builds."
+				}
+			],
+			"type" : "STRING",
+			"value" : ""
+		},
+		{
+			"name" : "CMAKE_SHARED_LINKER_FLAGS_RELWITHDEBINFO",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Flags used by the linker during the creation of shared libraries during RELWITHDEBINFO builds."
+				}
+			],
+			"type" : "STRING",
+			"value" : ""
+		},
+		{
+			"name" : "CMAKE_SKIP_INSTALL_RPATH",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "If set, runtime paths are not added when installing shared libraries, but are added when building."
+				}
+			],
+			"type" : "BOOL",
+			"value" : "NO"
+		},
+		{
+			"name" : "CMAKE_SKIP_RPATH",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "If set, runtime paths are not added when using shared libraries."
+				}
+			],
+			"type" : "BOOL",
+			"value" : "NO"
+		},
+		{
+			"name" : "CMAKE_STATIC_LINKER_FLAGS",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Flags used by the linker during the creation of static libraries during all build types."
+				}
+			],
+			"type" : "STRING",
+			"value" : ""
+		},
+		{
+			"name" : "CMAKE_STATIC_LINKER_FLAGS_DEBUG",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Flags used by the linker during the creation of static libraries during DEBUG builds."
+				}
+			],
+			"type" : "STRING",
+			"value" : ""
+		},
+		{
+			"name" : "CMAKE_STATIC_LINKER_FLAGS_MINSIZEREL",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Flags used by the linker during the creation of static libraries during MINSIZEREL builds."
+				}
+			],
+			"type" : "STRING",
+			"value" : ""
+		},
+		{
+			"name" : "CMAKE_STATIC_LINKER_FLAGS_RELEASE",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Flags used by the linker during the creation of static libraries during RELEASE builds."
+				}
+			],
+			"type" : "STRING",
+			"value" : ""
+		},
+		{
+			"name" : "CMAKE_STATIC_LINKER_FLAGS_RELWITHDEBINFO",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Flags used by the linker during the creation of static libraries during RELWITHDEBINFO builds."
+				}
+			],
+			"type" : "STRING",
+			"value" : ""
+		},
+		{
+			"name" : "CMAKE_STRIP",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to a program."
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/strip.exe"
+		},
+		{
+			"name" : "CMAKE_TAPI",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to a program."
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "CMAKE_TAPI-NOTFOUND"
+		},
+		{
+			"name" : "CMAKE_VERBOSE_MAKEFILE",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "If this value is on, makefiles will be generated without the .SILENT directive, and all commands will be echoed to the console during the make.  This is useful for debugging only. With Visual Studio IDE projects all commands are done without /nologo."
+				}
+			],
+			"type" : "BOOL",
+			"value" : "FALSE"
+		},
+		{
+			"name" : "CORROSION_BUILD_TESTS",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Build Corrosion test project"
+				}
+			],
+			"type" : "BOOL",
+			"value" : "OFF"
+		},
+		{
+			"name" : "CORROSION_INSTALL_ONLY",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Only add rules for installing Corrosion itself."
+				}
+			],
+			"type" : "BOOL",
+			"value" : "OFF"
+		},
+		{
+			"name" : "CORROSION_NO_WARN_PARSE_TARGET_TRIPLE_FAILED",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Surpresses a warning if the parsing the target triple failed."
+				}
+			],
+			"type" : "BOOL",
+			"value" : "OFF"
+		},
+		{
+			"name" : "CORROSION_VERBOSE_OUTPUT",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Enables verbose output from Corrosion and Cargo"
+				}
+			],
+			"type" : "BOOL",
+			"value" : "OFF"
+		},
+		{
+			"name" : "COR_IS_MULTI_CONFIG",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Do not change this"
+				}
+			],
+			"type" : "BOOL",
+			"value" : "0"
+		},
+		{
+			"name" : "CXXBRIDGE",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to a program."
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "C:/Users/adven/.cargo/bin/cxxbridge.exe"
+		},
+		{
+			"name" : "Corrosion_BINARY_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "C:/Users/adven/Desktop/rusty_cmake/cmake-build-debug/_deps/corrosion-build"
+		},
+		{
+			"name" : "Corrosion_IS_TOP_LEVEL",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "OFF"
+		},
+		{
+			"name" : "Corrosion_SOURCE_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "C:/Users/adven/Desktop/rusty_cmake/cmake-build-debug/_deps/corrosion-src"
+		},
+		{
+			"name" : "FETCHCONTENT_BASE_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Directory under which to collect all populated content"
+				}
+			],
+			"type" : "PATH",
+			"value" : "C:/Users/adven/Desktop/rusty_cmake/cmake-build-debug/_deps"
+		},
+		{
+			"name" : "FETCHCONTENT_FULLY_DISCONNECTED",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Disables all attempts to download or update content and assumes source dirs already exist"
+				}
+			],
+			"type" : "BOOL",
+			"value" : "OFF"
+		},
+		{
+			"name" : "FETCHCONTENT_QUIET",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Enables QUIET option for all content population"
+				}
+			],
+			"type" : "BOOL",
+			"value" : "ON"
+		},
+		{
+			"name" : "FETCHCONTENT_SOURCE_DIR_CORROSION",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "When not empty, overrides where to find pre-populated content for Corrosion"
+				}
+			],
+			"type" : "PATH",
+			"value" : ""
+		},
+		{
+			"name" : "FETCHCONTENT_UPDATES_DISCONNECTED",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Enables UPDATE_DISCONNECTED behavior for all content population"
+				}
+			],
+			"type" : "BOOL",
+			"value" : "OFF"
+		},
+		{
+			"name" : "FETCHCONTENT_UPDATES_DISCONNECTED_CORROSION",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Enables UPDATE_DISCONNECTED behavior just for population of Corrosion"
+				}
+			],
+			"type" : "BOOL",
+			"value" : "OFF"
+		},
+		{
+			"name" : "FIND_PACKAGE_MESSAGE_DETAILS_Rust",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Details about finding Rust"
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "[C:/Users/adven/.rustup/toolchains/stable-x86_64-pc-windows-msvc/bin/rustc.exe][1.76.0][C:/Users/adven/.rustup/toolchains/stable-x86_64-pc-windows-msvc/bin/cargo.exe][1.76.0][x86_64-pc-windows-gnu][x86_64-pc-windows-msvc][v1.76.0()]"
+		},
+		{
+			"name" : "GIT_EXECUTABLE",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Git command line client"
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "C:/Program Files/PortableGit/bin/git.exe"
+		},
+		{
+			"name" : "INSTALLED_CXXBRIDGE",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to a program."
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "C:/Users/adven/.cargo/bin/cxxbridge.exe"
+		},
+		{
+			"name" : "Rust_CARGO_CACHED",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Internal cache of Rust_CARGO"
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "C:/Users/adven/.rustup/toolchains/stable-x86_64-pc-windows-msvc/bin/cargo.exe"
+		},
+		{
+			"name" : "Rust_CARGO_HOST_ARCH",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Host architecture"
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "x86_64"
+		},
+		{
+			"name" : "Rust_CARGO_HOST_ENV",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Host environment"
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "msvc"
+		},
+		{
+			"name" : "Rust_CARGO_HOST_OS",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Host Operating System"
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "windows"
+		},
+		{
+			"name" : "Rust_CARGO_HOST_TARGET_CACHED",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Internal cache of Rust_CARGO_HOST_TARGET"
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "x86_64-pc-windows-msvc"
+		},
+		{
+			"name" : "Rust_CARGO_HOST_TARGET_LINK_NATIVE_LIBS",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Required native libraries when linking Rust static libraries for the host target"
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "kernel32;advapi32;bcrypt;kernel32;ntdll;userenv;ws2_32;kernel32;ws2_32;kernel32;ntdll;kernel32;$<$<CONFIG:Debug>:msvcrtd>"
+		},
+		{
+			"name" : "Rust_CARGO_HOST_VENDOR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Host vendor"
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "pc"
+		},
+		{
+			"name" : "Rust_CARGO_TARGET_ARCH",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Target architecture"
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "x86_64"
+		},
+		{
+			"name" : "Rust_CARGO_TARGET_CACHED",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Internal cache of Rust_CARGO_TARGET"
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "x86_64-pc-windows-gnu"
+		},
+		{
+			"name" : "Rust_CARGO_TARGET_ENV",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Target environment"
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "gnu"
+		},
+		{
+			"name" : "Rust_CARGO_TARGET_LINK_NATIVE_LIBS",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Required native libraries when linking Rust static libraries"
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "kernel32;advapi32;bcrypt;kernel32;ntdll;userenv;ws2_32;kernel32;ws2_32;kernel32;ntdll;kernel32"
+		},
+		{
+			"name" : "Rust_CARGO_TARGET_OS",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Target Operating System"
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "windows"
+		},
+		{
+			"name" : "Rust_CARGO_TARGET_VENDOR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Target vendor"
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "pc"
+		},
+		{
+			"name" : "Rust_CARGO_VERSION",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "1.76.0"
+		},
+		{
+			"name" : "Rust_CARGO_VERSION_MAJOR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "1"
+		},
+		{
+			"name" : "Rust_CARGO_VERSION_MINOR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "76"
+		},
+		{
+			"name" : "Rust_CARGO_VERSION_PATCH",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "0"
+		},
+		{
+			"name" : "Rust_COMPILER_CACHED",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Internal cache of Rust_COMPILER"
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "C:/Users/adven/.rustup/toolchains/stable-x86_64-pc-windows-msvc/bin/rustc.exe"
+		},
+		{
+			"name" : "Rust_CROSSCOMPILING",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Rust is configured for cross-compiling"
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "TRUE"
+		},
+		{
+			"name" : "Rust_IS_NIGHTLY",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "0"
+		},
+		{
+			"name" : "Rust_LLVM_VERSION",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "17.0.6"
+		},
+		{
+			"name" : "Rust_LLVM_VERSION_MAJOR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "17"
+		},
+		{
+			"name" : "Rust_LLVM_VERSION_MINOR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "0"
+		},
+		{
+			"name" : "Rust_LLVM_VERSION_PATCH",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "6"
+		},
+		{
+			"name" : "Rust_RESOLVE_RUSTUP_TOOLCHAINS",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Indicates whether to descend into the toolchain pointed to by rustup"
+				}
+			],
+			"type" : "BOOL",
+			"value" : "ON"
+		},
+		{
+			"name" : "Rust_RUSTUP",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to a program."
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "C:/Users/adven/.cargo/bin/rustup.exe"
+		},
+		{
+			"name" : "Rust_TOOLCHAIN",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "The rustup toolchain to use"
+				},
+				{
+					"name" : "STRINGS",
+					"value" : "stable-x86_64-pc-windows-msvc;nightly-x86_64-pc-windows-msvc"
+				}
+			],
+			"type" : "STRING",
+			"value" : "stable-x86_64-pc-windows-msvc"
+		},
+		{
+			"name" : "Rust_TOOLCHAIN_IS_RUSTUP_MANAGED",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "TRUE"
+		},
+		{
+			"name" : "Rust_VERSION",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "1.76.0"
+		},
+		{
+			"name" : "Rust_VERSION_MAJOR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "1"
+		},
+		{
+			"name" : "Rust_VERSION_MINOR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "76"
+		},
+		{
+			"name" : "Rust_VERSION_PATCH",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "0"
+		},
+		{
+			"name" : "_CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "linker supports push/pop state"
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "TRUE"
+		},
+		{
+			"name" : "_CORROSION_CARGO",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to cargo used by corrosion"
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "C:/Users/adven/.rustup/toolchains/stable-x86_64-pc-windows-msvc/bin/cargo.exe"
+		},
+		{
+			"name" : "_CORROSION_CARGO_VERSION",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "cargo version used by corrosion"
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "1.76.0"
+		},
+		{
+			"name" : "_CORROSION_QUIET_OUTPUT_FLAG",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "--quiet"
+		},
+		{
+			"name" : "_CORROSION_RUSTC",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to rustc used by corrosion"
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "C:/Users/adven/.rustup/toolchains/stable-x86_64-pc-windows-msvc/bin/rustc.exe"
+		},
+		{
+			"name" : "_CORROSION_RUST_CARGO_HOST_TARGET",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "host triple used by corrosion"
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "x86_64-pc-windows-msvc"
+		},
+		{
+			"name" : "_CORROSION_RUST_CARGO_TARGET",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "target triple used by corrosion"
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "x86_64-pc-windows-gnu"
+		},
+		{
+			"name" : "_CORROSION_RUST_CARGO_TARGET_UNDERSCORE",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "lowercase target triple with underscores"
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "x86_64_pc_windows_gnu"
+		},
+		{
+			"name" : "_CORROSION_RUST_CARGO_TARGET_UPPER",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "target triple in uppercase with underscore"
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "X86_64_PC_WINDOWS_GNU"
+		},
+		{
+			"name" : "_CORR_PROP_ALL_FEATURES",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "CORROSION_ALL_FEATURES"
+		},
+		{
+			"name" : "_CORR_PROP_ENV_VARS",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "CORROSION_ENVIRONMENT_VARIABLES"
+		},
+		{
+			"name" : "_CORR_PROP_FEATURES",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "CORROSION_FEATURES"
+		},
+		{
+			"name" : "_CORR_PROP_HOST_BUILD",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "CORROSION_USE_HOST_BUILD"
+		},
+		{
+			"name" : "_CORR_PROP_NO_DEFAULT_FEATURES",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "CORROSION_NO_DEFAULT_FEATURES"
+		},
+		{
+			"name" : "rusty_cmake_BINARY_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "C:/Users/adven/Desktop/rusty_cmake/cmake-build-debug"
+		},
+		{
+			"name" : "rusty_cmake_IS_TOP_LEVEL",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "ON"
+		},
+		{
+			"name" : "rusty_cmake_SOURCE_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "C:/Users/adven/Desktop/rusty_cmake"
+		}
+	],
+	"kind" : "cache",
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}

@@ -1,0 +1,159 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8
+					]
+				},
+				{
+					"build" : "_deps/corrosion-build",
+					"jsonFile" : "directory-_deps.corrosion-build-Debug-f0fadaac86b9fe3edaf3.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "cmake-build-debug/_deps/corrosion-src"
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "rusty_cmake",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "Corrosion",
+					"parentIndex" : 0
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "_cargo-build_rusty_code::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-_cargo-build_rusty_code-Debug-430957076add8b9cea67.json",
+					"name" : "_cargo-build_rusty_code",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cargo-build_rusty_code::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cargo-build_rusty_code-Debug-182abbbb2d8646ab39b7.json",
+					"name" : "cargo-build_rusty_code",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cargo-clean::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cargo-clean-Debug-975fcd70be4ea46aae14.json",
+					"name" : "cargo-clean",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cargo-clean_rusty_code::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cargo-clean_rusty_code-Debug-9ea2bef1d81626c3f394.json",
+					"name" : "cargo-clean_rusty_code",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cargo-prebuild::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cargo-prebuild-Debug-c2ec8a869aa276701778.json",
+					"name" : "cargo-prebuild",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cargo-prebuild_rusty_code::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cargo-prebuild_rusty_code-Debug-c5ca15c86e21aa93d4ae.json",
+					"name" : "cargo-prebuild_rusty_code",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cxxbridge_v1.0.118::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cxxbridge_v1.0.118-Debug-ccafc58a4ccbd5a80f3e.json",
+					"name" : "cxxbridge_v1.0.118",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "rusty_bridge::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rusty_bridge-Debug-c1c8ef7e76e2fe7f7322.json",
+					"name" : "rusty_bridge",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "rusty_cmake::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rusty_cmake-Debug-5bf4276ae2c0e70c7345.json",
+					"name" : "rusty_cmake",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/adven/Desktop/rusty_cmake/cmake-build-debug",
+		"source" : "C:/Users/adven/Desktop/rusty_cmake"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/adven/Desktop/rusty_cmake/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -IC:/Users/adven/Desktop/rusty_cmake/cmake-build-debug/corrosion_generated/cxxbridge/rusty_bridge/include -g -fdiagnostics-color=always -o CMakeFiles\\rusty_bridge.dir\\corrosion_generated\\cxxbridge\\rusty_bridge\\src\\lib.cpp.obj -c C:\\Users\\adven\\Desktop\\rusty_cmake\\cmake-build-debug\\corrosion_generated\\cxxbridge\\rusty_bridge\\src\\lib.cpp",
+  "file": "C:\\Users\\adven\\Desktop\\rusty_cmake\\cmake-build-debug\\corrosion_generated\\cxxbridge\\rusty_bridge\\src\\lib.cpp",
+  "output": "CMakeFiles\\rusty_bridge.dir\\corrosion_generated\\cxxbridge\\rusty_bridge\\src\\lib.cpp.obj"
+},
+{
+  "directory": "C:/Users/adven/Desktop/rusty_cmake/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -IC:/Users/adven/Desktop/rusty_cmake/cmake-build-debug/corrosion_generated/cxxbridge/rusty_bridge/include -g -fdiagnostics-color=always -o CMakeFiles\\rusty_cmake.dir\\src\\main.cpp.obj -c C:\\Users\\adven\\Desktop\\rusty_cmake\\src\\main.cpp",
+  "file": "C:\\Users\\adven\\Desktop\\rusty_cmake\\src\\main.cpp",
+  "output": "CMakeFiles\\rusty_cmake.dir\\src\\main.cpp.obj"
+}
+]

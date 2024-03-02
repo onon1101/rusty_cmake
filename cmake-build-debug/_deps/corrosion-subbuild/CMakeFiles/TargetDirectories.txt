@@ -1,0 +1,3 @@
+C:/Users/adven/Desktop/rusty_cmake/cmake-build-debug/_deps/corrosion-subbuild/CMakeFiles/corrosion-populate.dir
+C:/Users/adven/Desktop/rusty_cmake/cmake-build-debug/_deps/corrosion-subbuild/CMakeFiles/edit_cache.dir
+C:/Users/adven/Desktop/rusty_cmake/cmake-build-debug/_deps/corrosion-subbuild/CMakeFiles/rebuild_cache.dir

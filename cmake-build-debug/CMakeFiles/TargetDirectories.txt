@@ -1,0 +1,13 @@
+C:/Users/adven/Desktop/rusty_cmake/cmake-build-debug/CMakeFiles/_cargo-build_rusty_code.dir
+C:/Users/adven/Desktop/rusty_cmake/cmake-build-debug/CMakeFiles/cargo-build_rusty_code.dir
+C:/Users/adven/Desktop/rusty_cmake/cmake-build-debug/CMakeFiles/cargo-prebuild_rusty_code.dir
+C:/Users/adven/Desktop/rusty_cmake/cmake-build-debug/CMakeFiles/cargo-prebuild.dir
+C:/Users/adven/Desktop/rusty_cmake/cmake-build-debug/CMakeFiles/cargo-clean_rusty_code.dir
+C:/Users/adven/Desktop/rusty_cmake/cmake-build-debug/CMakeFiles/cargo-clean.dir
+C:/Users/adven/Desktop/rusty_cmake/cmake-build-debug/CMakeFiles/cxxbridge_v1.0.118.dir
+C:/Users/adven/Desktop/rusty_cmake/cmake-build-debug/CMakeFiles/rusty_bridge.dir
+C:/Users/adven/Desktop/rusty_cmake/cmake-build-debug/CMakeFiles/rusty_cmake.dir
+C:/Users/adven/Desktop/rusty_cmake/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/adven/Desktop/rusty_cmake/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/adven/Desktop/rusty_cmake/cmake-build-debug/_deps/corrosion-build/CMakeFiles/edit_cache.dir
+C:/Users/adven/Desktop/rusty_cmake/cmake-build-debug/_deps/corrosion-build/CMakeFiles/rebuild_cache.dir

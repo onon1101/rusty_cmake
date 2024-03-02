@@ -1,0 +1,208 @@
+{
+	"archive" : {},
+	"artifacts" : 
+	[
+		{
+			"path" : "librusty_bridge.a"
+		}
+	],
+	"backtrace" : 2,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"corrosion_add_cxxbridge",
+			"add_dependencies",
+			"_corrosion_add_library_target",
+			"_generator_add_package_targets",
+			"_generator_add_cargo_targets",
+			"corrosion_import_crate",
+			"target_include_directories",
+			"target_compile_features",
+			"target_sources"
+		],
+		"files" : 
+		[
+			"cmake-build-debug/_deps/corrosion-src/cmake/Corrosion.cmake",
+			"CMakeLists.txt",
+			"cmake-build-debug/_deps/corrosion-src/cmake/CorrosionGenerator.cmake"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 29,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 1420,
+				"parent" : 1
+			},
+			{
+				"command" : 6,
+				"file" : 1,
+				"line" : 28,
+				"parent" : 0
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 930,
+				"parent" : 3
+			},
+			{
+				"command" : 4,
+				"file" : 2,
+				"line" : 266,
+				"parent" : 4
+			},
+			{
+				"command" : 3,
+				"file" : 2,
+				"line" : 113,
+				"parent" : 5
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 411,
+				"parent" : 6
+			},
+			{
+				"command" : 7,
+				"file" : 0,
+				"line" : 1421,
+				"parent" : 1
+			},
+			{
+				"command" : 8,
+				"file" : 0,
+				"line" : 1428,
+				"parent" : 1
+			},
+			{
+				"command" : 9,
+				"file" : 0,
+				"line" : 1479,
+				"parent" : 1
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g -fdiagnostics-color=always"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 8,
+					"path" : "C:/Users/adven/Desktop/rusty_cmake/cmake-build-debug/corrosion_generated/cxxbridge/rusty_bridge/include"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					9
+				],
+				"standard" : "17"
+			},
+			"sourceIndexes" : 
+			[
+				2
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 7,
+			"id" : "cargo-build_rusty_code::@6890427a1f51a3e7e1df"
+		},
+		{
+			"id" : "cxxbridge_v1.0.118::@6890427a1f51a3e7e1df"
+		}
+	],
+	"id" : "rusty_bridge::@6890427a1f51a3e7e1df",
+	"name" : "rusty_bridge",
+	"nameOnDisk" : "librusty_bridge.a",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Header Files",
+			"sourceIndexes" : 
+			[
+				0,
+				1
+			]
+		},
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				2
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				3,
+				4
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 10,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/corrosion_generated/cxxbridge/rusty_bridge/include/rusty_bridge/lib.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 10,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/corrosion_generated/cxxbridge/rusty_bridge/include/rust/cxx.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 10,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/corrosion_generated/cxxbridge/rusty_bridge/src/lib.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/corrosion_generated/cxxbridge/rusty_bridge/include/rusty_bridge/lib.h.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/corrosion_generated/cxxbridge/rusty_bridge/include/rust/cxx.h.rule",
+			"sourceGroupIndex" : 2
+		}
+	],
+	"type" : "STATIC_LIBRARY"
+}

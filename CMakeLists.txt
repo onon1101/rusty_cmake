@@ -25,4 +25,9 @@ if (CXXBRIDGE STREQUAL "CXXBRIDGE-NOTFOUND")
     find_program(CXXBRIDGE cxxbridge PATHS "$ENV{HOME}/.cargo/bin/")
 endif()
 
-add_subdirectory(src)
+corrosion_import_crate(MANIFEST_PATH src/rusty_code/Cargo.toml)
+corrosion_add_cxxbridge(rusty_bridge CRATE rusty_code MANIFEST_PATH rusty_code FILES lib.rs)
+
+add_executable(rusty_cmake src/main.cpp)
+target_link_libraries(rusty_cmake PRIVATE rusty_bridge)
+#add_subdirectory(src)

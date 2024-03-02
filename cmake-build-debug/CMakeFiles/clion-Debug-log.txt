@@ -1,0 +1,60 @@
+"C:\Program Files (x86)\CMake\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe" -G Ninja -S C:\Users\adven\Desktop\rusty_cmake -B C:\Users\adven\Desktop\rusty_cmake\cmake-build-debug
+-- The CXX compiler identification is GNU 13.1.0
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/g++.exe - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Rust Toolchain: stable-x86_64-pc-windows-msvc
+-- Rust Target: x86_64-pc-windows-gnu
+-- Determining required link libraries for target x86_64-pc-windows-gnu
+-- Required static libs for target x86_64-pc-windows-gnu: kernel32;advapi32;bcrypt;kernel32;ntdll;userenv;ws2_32;kernel32;ws2_32;kernel32;ntdll;kernel32
+-- Determining required link libraries for target x86_64-pc-windows-msvc
+-- Required static libs for host target x86_64-pc-windows-msvc: kernel32;advapi32;bcrypt;kernel32;ntdll;userenv;ws2_32;kernel32;ws2_32;kernel32;ntdll;kernel32;$<$<CONFIG:Debug>:msvcrtd>
+-- Found Rust: C:/Users/adven/.rustup/toolchains/stable-x86_64-pc-windows-msvc/bin/rustc.exe (found version "1.76.0") 
+Could not find cxxbridge, trying to install with `cargo install cxxbridge-cmd'
+    Updating crates.io index
+ Downloading crates ...
+  Downloaded cxxbridge-cmd v1.0.118
+  Installing cxxbridge-cmd v1.0.118
+    Updating crates.io index
+ Downloading crates ...
+  Downloaded codespan-reporting v0.11.1
+  Downloaded anstyle v1.0.6
+  Downloaded termcolor v1.4.1
+  Downloaded strsim v0.11.0
+  Downloaded syn v2.0.52
+  Downloaded quote v1.0.35
+  Downloaded clap_builder v4.5.1
+  Downloaded proc-macro2 v1.0.78
+  Downloaded clap_lex v0.7.0
+  Downloaded clap v4.5.1
+   Compiling winapi v0.3.9
+   Compiling proc-macro2 v1.0.78
+   Compiling unicode-ident v1.0.12
+   Compiling anstyle v1.0.6
+   Compiling strsim v0.11.0
+   Compiling clap_lex v0.7.0
+   Compiling unicode-width v0.1.11
+   Compiling clap_builder v4.5.1
+   Compiling quote v1.0.35
+   Compiling syn v2.0.52
+   Compiling clap v4.5.1
+   Compiling winapi-util v0.1.6
+   Compiling termcolor v1.4.1
+   Compiling codespan-reporting v0.11.1
+   Compiling cxxbridge-cmd v1.0.118
+    Finished release [optimized] target(s) in 24.15s
+  Installing C:\Users\adven\.cargo\bin\cxxbridge.exe
+   Installed package `cxxbridge-cmd v1.0.118` (executable `cxxbridge.exe`)
+    Updating crates.io index
+ Downloading crates ...
+  Downloaded link-cplusplus v1.0.9
+  Downloaded cxxbridge-flags v1.0.118
+  Downloaded scratch v1.0.7
+  Downloaded cxx-build v1.0.118
+  Downloaded cxxbridge-macro v1.0.118
+  Downloaded cxx v1.0.118
+-- Configuring done (36.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: C:/Users/adven/Desktop/rusty_cmake/cmake-build-debug

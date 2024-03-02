@@ -1,0 +1,177 @@
+{
+	"inputs" : 
+	[
+		{
+			"path" : "CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/CMakeFiles/3.27.6/CMakeSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files (x86)/CMake/share/cmake-3.27/Modules/CMakeSystemSpecificInitialize.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files (x86)/CMake/share/cmake-3.27/Modules/Platform/Windows-Initialize.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/CMakeFiles/3.27.6/CMakeCXXCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files (x86)/CMake/share/cmake-3.27/Modules/CMakeSystemSpecificInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files (x86)/CMake/share/cmake-3.27/Modules/CMakeGenericSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files (x86)/CMake/share/cmake-3.27/Modules/CMakeInitializeConfigs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files (x86)/CMake/share/cmake-3.27/Modules/Platform/Windows.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files (x86)/CMake/share/cmake-3.27/Modules/Platform/WindowsPaths.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files (x86)/CMake/share/cmake-3.27/Modules/CMakeCXXInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files (x86)/CMake/share/cmake-3.27/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files (x86)/CMake/share/cmake-3.27/Modules/Compiler/GNU-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files (x86)/CMake/share/cmake-3.27/Modules/Compiler/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files (x86)/CMake/share/cmake-3.27/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files (x86)/CMake/share/cmake-3.27/Modules/Platform/Windows-GNU-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files (x86)/CMake/share/cmake-3.27/Modules/Platform/Windows-GNU.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/CMakeFiles/3.27.6/CMakeRCCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files (x86)/CMake/share/cmake-3.27/Modules/CMakeRCInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files (x86)/CMake/share/cmake-3.27/Modules/Platform/Windows-windres.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files (x86)/CMake/share/cmake-3.27/Modules/Platform/Windows-GNU-CXX-ABI.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files (x86)/CMake/share/cmake-3.27/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files (x86)/CMake/share/cmake-3.27/Modules/FetchContent.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files (x86)/CMake/share/cmake-3.27/Modules/ExternalProject/shared_internal_commands.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files (x86)/CMake/share/cmake-3.27/Modules/FindGit.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files (x86)/CMake/share/cmake-3.27/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files (x86)/CMake/share/cmake-3.27/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files (x86)/CMake/share/cmake-3.27/Modules/FetchContent/CMakeLists.cmake.in"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/_deps/corrosion-src/CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/_deps/corrosion-src/cmake/Corrosion.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/_deps/corrosion-src/cmake/FindRust.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files (x86)/CMake/share/cmake-3.27/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files (x86)/CMake/share/cmake-3.27/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/_deps/corrosion-src/cmake/CorrosionGenerator.cmake"
+		}
+	],
+	"kind" : "cmakeFiles",
+	"paths" : 
+	{
+		"build" : "C:/Users/adven/Desktop/rusty_cmake/cmake-build-debug",
+		"source" : "C:/Users/adven/Desktop/rusty_cmake"
+	},
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 0
+	}
+}
